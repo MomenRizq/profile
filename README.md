@@ -230,15 +230,6 @@ Beautiful, responsive UI design for food ordering application.
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MomenRizq&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
