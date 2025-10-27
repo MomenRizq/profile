@@ -275,7 +275,6 @@ Beautiful, responsive UI design for food ordering application.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/momen-rizq-7299a7213)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MomenRizq)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://momenrizq-flutter-developer.lovable.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momenrizq20@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201554500884)
 
@@ -293,15 +292,6 @@ Beautiful, responsive UI design for food ordering application.
 
 ---
 
-## 👀 Profile Views
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=MomenRizq&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
 
 <div align="center">
   
