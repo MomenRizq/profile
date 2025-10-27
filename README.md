@@ -14,7 +14,7 @@ class MomenRizq {
   final String location = "Egypt 🇪🇬";
   final String education = "B.Sc. Software Engineering - KFS University";
   final int experienceYears = 2;
-  
+
   final List<String> expertise = [
     "Flutter & Dart",
     "Clean Architecture",
@@ -22,10 +22,10 @@ class MomenRizq {
     "Firebase Integration",
     "Teaching & Mentoring"
   ];
-  
+
   final String currentFocus = "Building high-quality, scalable mobile applications";
   final String passion = "Teaching programming fundamentals and Flutter development";
-  
+
   void sayHi() {
     print("Always learning, always building! ☕💻");
   }
@@ -42,60 +42,10 @@ class MomenRizq {
 - 📫 Reach me: **momenrizq20@gmail.com**
 - ⚡ Fun fact: I learn by teaching, and teach what I learn!
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### State Management & Architecture
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Architecture-blue?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-Pattern-orange?style=for-the-badge)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
-
-### Core Principles
-```
-✓ OOP • SOLID Principles • Design Patterns
-✓ Code Reviews • Clean Code • Technical Documentation
-✓ Problem Solving • Self-learning • Time Management
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MomenRizq&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MomenRizq&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MomenRizq&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
-
 ## 📱 Featured Projects
 
 ### 🛋️ Decor App - Home Furniture Store
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=Decore_app&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/Decore_app)
 
 A fully structured Flutter mobile app for browsing and purchasing home decor products.
@@ -103,22 +53,31 @@ A fully structured Flutter mobile app for browsing and purchasing home decor pro
 **🔧 Tech Stack:** Flutter • Firebase • Clean Architecture • Cubit • JSON
 
 **✨ Key Features:**
+
 - Firebase Authentication (Email/Password, Google, Facebook)
 - Cart Management & Wishlist
 - Clean Architecture implementation
 - Simulated backend using local JSON
 
 **📸 Screenshots:**
+
 <!-- Add your screenshots here -->
 <div align="center">
-  <img src="path/to/screenshot1.png" width="200"/>
-  <img src="path/to/screenshot2.png" width="200"/>
-  <img src="path/to/screenshot3.png" width="200"/>
+  <img src="assets/decor/1.jpg" width="200"/>
+  <img src="assets/decor/2.jpg" width="200"/>
+  <img src="assets/decor/3.jpg" width="200"/>
+  <img src="assets/decor/4.jpg" width="200"/>
+  <img src="assets/decor/5.jpg" width="200"/>
+  <img src="assets/decor/6.jpg" width="200"/>
+  <img src="assets/decor/7.jpg" width="200"/>
+  <img src="assets/decor/8.jpg" width="200"/>
+  <img src="assets/decor/9.jpg" width="200"/>
 </div>
 
 ---
 
 ### 🥬 Grocery Store Mobile App
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=grocery_app&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/grocery_app)
 
 Full-featured vegetable store app with multiple authentication methods.
@@ -126,6 +85,7 @@ Full-featured vegetable store app with multiple authentication methods.
 **🔧 Tech Stack:** Flutter • Firebase • Provider
 
 **✨ Key Features:**
+
 - Multi-authentication (Email, Google, Visitor Mode)
 - Product browsing with search functionality
 - Shopping cart & preferences list
@@ -133,16 +93,24 @@ Full-featured vegetable store app with multiple authentication methods.
 - Password reset via email
 
 **📸 Screenshots:**
+
 <!-- Add your screenshots here -->
 <div align="center">
-  <img src="path/to/screenshot1.png" width="200"/>
-  <img src="path/to/screenshot2.png" width="200"/>
-  <img src="path/to/screenshot3.png" width="200"/>
+  <img src="assets/Grocery/1.jpeg" width="200"/>
+  <img src="assets/Grocery/2.jpeg" width="200"/>
+  <img src="assets/Grocery/3.jpeg" width="200"/>
+  <img src="assets/Grocery/4.jpeg" width="200"/>
+  <img src="assets/Grocery/5.jpeg" width="200"/>
+  <img src="assets/Grocery/6.jpeg" width="200"/>
+  <img src="assets/Grocery/7.jpeg" width="200"/>
+  <img src="assets/Grocery/8.jpeg" width="200"/>
+  <img src="assets/Grocery/9.jpeg" width="200"/>
 </div>
 
 ---
 
 ### 🎛️ Admin Panel for Grocery App
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=grocery_admin_panel&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/grocery_admin_panel)
 
 User-friendly admin control panel for product and order management.
@@ -150,22 +118,28 @@ User-friendly admin control panel for product and order management.
 **🔧 Tech Stack:** Flutter • Firebase • Provider
 
 **✨ Key Features:**
+
 - View, add, and modify products
 - Comprehensive order tracking
 - Simple and intuitive design
 - Efficient product management
 
 **📸 Screenshots:**
+
 <!-- Add your screenshots here -->
 <div align="center">
-  <img src="path/to/screenshot1.png" width="200"/>
-  <img src="path/to/screenshot2.png" width="200"/>
-  <img src="path/to/screenshot3.png" width="200"/>
+  <img src="assets/Grocerydashboard/1.jpeg" width="200"/>
+  <img src="assets/Grocerydashboard/2.jpeg" width="200"/>
+  <img src="assets/Grocerydashboard/3.jpeg" width="200"/>
+  <img src="assets/Grocerydashboard/4.jpeg" width="200"/>
+  <img src="assets/Grocerydashboard/5.jpeg" width="200"/>
+  <img src="assets/Grocerydashboard/6.jpeg" width="200"/>
 </div>
 
 ---
 
 ### 🍔 Restaurant Food Ordering UI
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=food_app_UI&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/food_app_UI)
 
 Beautiful, responsive UI design for food ordering application.
@@ -173,96 +147,25 @@ Beautiful, responsive UI design for food ordering application.
 **🔧 Tech Stack:** Flutter
 
 **✨ Key Features:**
+
 - Responsive design for all screen sizes
 - Light & Dark mode support
 - User-friendly food browsing interface
 - Cross-platform compatible
 
 **📸 Screenshots:**
+
 <!-- Add your screenshots here -->
 <div align="center">
-  <img src="path/to/screenshot1.png" width="200"/>
-  <img src="path/to/screenshot2.png" width="200"/>
-  <img src="path/to/screenshot3.png" width="200"/>
+  <img src="assets/food/1.png" width="200"/>
+  <img src="assets/food/2.png" width="200"/>
+  <img src="assets/food/3.png" width="200"/>
+  <img src="assets/food/4.png" width="200"/>
+  <img src="assets/food/5.png" width="200"/>
+  <img src="assets/food/6.png" width="200"/>
+  <img src="assets/food/7.png" width="200"/>
+  <img src="assets/food/8.png" width="200"/>
 </div>
-
----
-
-## 💼 Professional Experience
-
-### 👨‍🏫 Flutter & Programming Instructor
-**Mindset Training** | May 2025 - Present
-
-```
-✓ Teaching Flutter development with focus on Clean Architecture & Cubit
-✓ Training beginners in programming fundamentals and Python
-✓ Mentoring students of different age groups (children & teens)
-✓ Promoting clean code principles and best practices
-```
-
-### 💻 Freelance Flutter Developer
-**Remote** | April 2025 - Present
-
-```
-✓ Gathering requirements and designing UI/UX
-✓ Implementing features with Clean Architecture
-✓ Integrating Firebase services and RESTful APIs
-✓ Delivering production-ready mobile applications
-```
-
-### 🖥️ IT Support & Data Management
-**Delta Training Academy** | December 2024 - May 2025
-
-```
-✓ Technical support for hardware, software, and network
-✓ Managing internal data systems and backups
-✓ Ensuring data integrity and availability
-```
-
-### 📱 Mobile Development Intern
-**Information Technology Institute (ITI)** | July 2022 - October 2022
-
-```
-✓ 120 hours intensive Flutter & Firebase training
-✓ Hands-on cross-platform mobile app development
-✓ Practical experience with Dart and Flutter framework
-```
-
----
-
-
-## 🎓 Education & Certifications
-
-🎓 **B.Sc. in Software Engineering** - Kafr-Elsheikh University (2019-2023)
-- GPA: 3.2 / 4.0
-- Focus: OOP, Software Design, Database Systems
-
-📜 **Certifications:**
-- Mobile Development Using Flutter - ITI (120 hours)
-- Employability Skills Track - Aspire Training Solution
-- Project Management Course - American Chamber of Commerce
-
----
-
-## 🌍 Languages
-
-- 🇪🇬 **Arabic:** Native
-- 🇬🇧 **English:** B1 (Intermediate)
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/momen-rizq-7299a7213)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MomenRizq)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:momenrizq20@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201554500884)
-
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
@@ -273,7 +176,6 @@ Beautiful, responsive UI design for food ordering application.
 </div>
 
 ---
-
 
 <div align="center">
   
