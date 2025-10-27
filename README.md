@@ -46,8 +46,6 @@ class MomenRizq {
 
 ### 🛋️ Decor App - Home Furniture Store
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=Decore_app&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/Decore_app)
-
 A fully structured Flutter mobile app for browsing and purchasing home decor products.
 
 **🔧 Tech Stack:** Flutter • Firebase • Clean Architecture • Cubit • JSON
@@ -77,8 +75,6 @@ A fully structured Flutter mobile app for browsing and purchasing home decor pro
 ---
 
 ### 🥬 Grocery Store Mobile App
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=grocery_app&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/grocery_app)
 
 Full-featured vegetable store app with multiple authentication methods.
 
@@ -111,8 +107,6 @@ Full-featured vegetable store app with multiple authentication methods.
 
 ### 🎛️ Admin Panel for Grocery App
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=grocery_admin_panel&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/grocery_admin_panel)
-
 User-friendly admin control panel for product and order management.
 
 **🔧 Tech Stack:** Flutter • Firebase • Provider
@@ -139,8 +133,6 @@ User-friendly admin control panel for product and order management.
 ---
 
 ### 🍔 Restaurant Food Ordering UI
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MomenRizq&repo=food_app_UI&theme=tokyonight&hide_border=true)](https://github.com/MomenRizq/food_app_UI)
 
 Beautiful, responsive UI design for food ordering application.
 
